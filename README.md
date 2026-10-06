@@ -2,7 +2,8 @@
 
 **`Desenvolvedor Back End - Java`**
 
-Me chamo Erick Gonçalves, atualmente sou graduando em Analise e Desenvolvimento de Sistemas, pela Universidade Estadual da Paraiba. Meus estudos estão voltados para o desenvolvimento back end na linguagem de programação Java.  
+Me chamo Erick Gonçalves e atualmente sou graduando em Análise e Desenvolvimento de Sistemas pela Universidade Estadual da Paraíba (UEPB). Meus estudos estão voltados principalmente para o desenvolvimento back-end, com foco na linguagem Java e no desenvolvimento de aplicações utilizando seu ecossistema.
+.  
 
 ### ❇️ Linguagens 
 
